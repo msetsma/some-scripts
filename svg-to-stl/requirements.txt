@@ -1,0 +1,3 @@
+svgpathtools
+trimesh
+numpy
